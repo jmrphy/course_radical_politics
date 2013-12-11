@@ -1,7 +1,5 @@
-Introduction to Radical and Revolutionary Politics
+Materials for a university-level introduction to various theoretical and empirical questions in radical and revolutionary politics.
 ==========================
-
-Materials for a university course on radical and revolutionary politics.
 
 [Costa, Mariarosa Dalla, and Selma James. 1975. *The Power of Women and the Subversion of the Community*. Falling Wall Press.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Dalla_Costa_and_James_Power_of_Women_1975.pdf?raw=true)
 
@@ -10,4 +8,4 @@ Materials for a university course on radical and revolutionary politics.
 [de Toledo, Camille. 2008. *Coming of Age at the End of History*. Soft Skull Press.](https://github.com/jmrphy/course_on_radical_politics/blob/master/DeToledo_End_of_History_2008.pdf?raw=true)
 
 
-[Sheng-wu-lien. 1969. “Whither China?.” International Socialism: 24–27.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Sheng­-wu­-lien_Wither_China_1969.pdf?raw=true)
+[Sheng-wu-lien. 1969. “Whither China?.” International Socialism 1(37): 24–27.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Sheng­-wu­-lien_Wither_China_1969.pdf?raw=true)
