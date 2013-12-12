@@ -1,6 +1,6 @@
-[Baldwin, James. 1963. “A Talk to Teachers.” *The Saturday Review*: 1–5.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Baldwin_Teachers_1963.pdf?raw=true)
-
 [Dalla Costa, Mariarosa, and Selma James. 1975. *The Power of Women and the Subversion of the Community*. Falling Wall Press.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Dalla_Costa_and_James_Power_of_Women_1975.pdf?raw=true)
+
+[Baldwin, James. 1963. “A Talk to Teachers.” *The Saturday Review*: 1–5.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Baldwin_Teachers_1963.pdf?raw=true)
 
 [Klein, Naomi. 2010. *The Shock Doctrine: The Rise of Disaster Capitalism*. Henry Holt and Company.](https://github.com/jmrphy/course_on_radical_politics/blob/master/Klein_Shock_Doctrine_2012.pdf?raw=true)
 
